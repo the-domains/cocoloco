@@ -1,0 +1,23 @@
+name: Cocoloco
+favicon: null
+layout_spectrum: 0.23580111609771848
+typography_spectrum: 0.5286856857128441
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5575775606557727
+  lightness: 0.17396267200820148
+  saturation: 0.9109004284255207
+  rhythmicContrast: 0.10665442375466228
+purpose: []
