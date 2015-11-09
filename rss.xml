@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cocoloco]]></title>
         <description><![CDATA[Cocoloco]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cocoloco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 20:34:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 Nov 2015 20:34:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cocoloco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testter]]></title>
+            <description><![CDATA[<article><h1>Testter</h1><p>Tester</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05cf8a5b-fe26-4721-b66d-bb9a4c9aa90c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cocoloco/testter/index.html</link>
+            <guid isPermaLink="false">36a0e529-91fe-42d0-9a04-517acce4cf36</guid>
+            <pubDate>Mon, 09 Nov 2015 20:34:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7f86293-9a01-4dc9-a71f-bbcddefc1da5.jpg">]]></description>
-            <link>undefined76ef0e5d-bc80-4344-847f-3e9dd438e6d1/index.html</link>
+            <link>https://thegrid.ai/cocoloco/76ef0e5d-bc80-4344-847f-3e9dd438e6d1/index.html</link>
             <guid isPermaLink="false">76ef0e5d-bc80-4344-847f-3e9dd438e6d1</guid>
             <pubDate>Mon, 09 Nov 2015 20:34:02 GMT</pubDate>
         </item>
